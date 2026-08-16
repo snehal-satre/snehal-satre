@@ -1,49 +1,28 @@
-# 💫 About Me:
+# 👋 Hi, I'm Snehal Satre
 
-Hi 👋 I'm **Snehal Satre**
+### Information Technology Student | Data Analytics | Generative AI | C++ & DSA
 
 🎓 B.Tech Information Technology Student at **Progressive Education Society's Modern College of Engineering, Pune**
 
-📊 **Data Analytics | Generative AI | C++ & Data Structures & Algorithms**
+I am an Information Technology student focused on **Data Analytics, Generative AI, and Data Structures & Algorithms using C++**.
 
-I am an Information Technology student focused on **Data Analytics, Generative AI, and problem solving with C++ and DSA**.
+I enjoy solving complex problems, working with data, building intelligent applications, and developing practical software solutions.
 
-I enjoy working with data, building intelligent applications, solving algorithmic problems, and developing practical software solutions.
+---
 
-### 🧠 Current Focus
+# 🎯 Career Focus
 
-📊 Data Analytics & Data Visualization  
-🤖 Generative AI & Artificial Intelligence  
-💻 Data Structures & Algorithms using C++  
-🐍 Python for Data Analysis  
-☕ Java & Software Development  
-🌐 Web Application Development  
+📊 **Data Analytics**  
+🤖 **Generative AI & Artificial Intelligence**  
+💻 **C++ & Data Structures and Algorithms**  
+☕ **Java & Software Development**  
+🌐 **Web Application Development**
 
-### 🛠️ What I Do
+I am continuously improving my technical and analytical skills by working on real-world projects and solving programming problems.
 
-- Analyze and extract insights from data
-- Build AI/ML-based applications
-- Practice DSA and algorithmic problem solving using C++
-- Develop web applications and REST APIs
-- Build real-world projects combining software, data, and AI
-- Continuously improve my programming and analytical skills
+---
 
-### 🎯 Career Goal
-
-To build a strong career in **Data Analytics and Generative AI**, while developing strong **problem-solving and software engineering skills** through C++ and DSA.
-
-📫 Open to internships, projects, collaborations, and opportunities in **Data Analytics, AI/ML, and Software Development**.
-
-
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-satre-4aa7b5340/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehalsatre1212)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@snehal.s_.1212_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehalsatre2510@gmail.com)
-
-
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
@@ -52,13 +31,6 @@ To build a strong career in **Data Analytics and Generative AI**, while developi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-
-### 📊 Data Analytics & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=plastic&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=plastic&logo=scikitlearn&logoColor=white)
 
 ### 🌐 Web Development
 
@@ -69,12 +41,19 @@ To build a strong career in **Data Analytics and Generative AI**, while developi
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 
+### 📊 Data Analytics & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=plastic&logo=openai&logoColor=white)
+
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
@@ -83,10 +62,13 @@ To build a strong career in **Data Analytics and Generative AI**, while developi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
+---
 
-# 🧩 Data Structures & Algorithms:
+# 🧩 Data Structures & Algorithms
 
-I am actively strengthening my problem-solving skills using **C++ and DSA**.
+I am actively developing strong **problem-solving and algorithmic thinking skills using C++**.
+
+### Core Topics
 
 - Arrays & Strings
 - Linked Lists
@@ -97,12 +79,34 @@ I am actively strengthening my problem-solving skills using **C++ and DSA**.
 - Trees & Binary Search Trees
 - Heaps
 - Graphs
-- Dynamic Programming
 - Greedy Algorithms
+- Dynamic Programming
 - Time & Space Complexity
 
+---
 
-# 🤖 Artificial Intelligence & Machine Learning:
+# 📊 Data Analytics
+
+I am building practical skills in **data analysis and data-driven decision making**.
+
+### Areas of Focus
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis
+- Data Analysis
+- Data Integration
+- Data Visualization
+- Python & Pandas
+- Data-Driven Insights
+- Analytical Problem Solving
+
+---
+
+# 🤖 Generative AI & Machine Learning
+
+I am exploring **Generative AI and Machine Learning** with a focus on practical applications.
+
+### Areas of Knowledge
 
 - Artificial Intelligence Fundamentals
 - Machine Learning Fundamentals
@@ -115,67 +119,73 @@ I am actively strengthening my problem-solving skills using **C++ and DSA**.
 - Data Preprocessing
 - Model Training & Evaluation
 
+---
 
-# 📊 Data Analytics:
+# 💼 Experience
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Data Analysis
-- Data Integration
-- Data Visualization
-- Python
-- Pandas
-- Analytical Problem Solving
-
-
-# 💼 Experience:
-
-### Google AI-ML Virtual Internship
+## Google AI-ML Virtual Internship
 
 **Google for Developers × AICTE × EduSkills Foundation**
 
 Completed a **10-week Google AI-ML Virtual Internship** focused on practical Artificial Intelligence and Machine Learning concepts.
 
-Key areas covered:
+### Key Areas Covered
 
-- Artificial Intelligence & Machine Learning fundamentals
-- TensorFlow and TensorFlow Lite Model Maker
-- Data preprocessing
-- Model training and evaluation
+- Artificial Intelligence & Machine Learning Fundamentals
+- TensorFlow
+- TensorFlow Lite Model Maker
+- Data Preprocessing
+- Model Training
+- Model Evaluation
 - Computer Vision
 - Image Classification
 - Object Detection
-- ML workflow and deployment concepts
+- ML Workflow & Deployment Concepts
 
+---
 
-# 🏗️ Featured Projects:
+# 🚀 Featured Projects
 
-### 🩺 Menstrual Mentor
-**AI-Powered Multi-Modal Menstrual Health Assistant**
+## 🩺 Menstrual Mentor
+
+### AI-Powered Multi-Modal Menstrual Health Assistant
 
 A technology-driven application designed to provide AI-powered assistance through **text, image, and voice-based analysis**.
 
-**Technologies:** React, Node.js, Express.js, MongoDB, JavaScript, AI
+**Technologies:** React • Node.js • Express.js • MongoDB • JavaScript • AI
 
+---
 
-### 🔎 TruthLens
-**AI Content & Fake News Detection**
+## 🔎 TruthLens
+
+### AI Content & Fake News Detection
 
 A project focused on analyzing digital content and helping users identify potentially misleading or unreliable information.
 
-**Technologies:** Python, AI/ML, Streamlit
+**Technologies:** Python • AI/ML • Streamlit
 
+---
 
-# 🏆 Certifications & Achievements:
+# 🏆 Certifications & Achievements
 
-- **Google AI-ML Virtual Internship** — Google for Developers × AICTE × EduSkills Foundation
-- **Data Analytics Job Simulation** — Deloitte
-- **Certificate of Excellence** — Engineering Today 2025
-- **CodeSphere-Innovacion 2026** — Round 1
-- **QuizOff 2026** — India's Biggest AI Quiz
+- **Google AI-ML Virtual Internship**  
+  Google for Developers × AICTE × EduSkills Foundation
 
+- **Data Analytics Job Simulation**  
+  Deloitte
 
-# 📊 GitHub Stats:
+- **Certificate of Excellence**  
+  Engineering Today 2025
+
+- **CodeSphere-Innovacion 2026**  
+  Round 1
+
+- **QuizOff 2026**  
+  India's Biggest AI Quiz
+
+---
+
+# 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=snehalsatre1212&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
@@ -183,22 +193,30 @@ A project focused on analyzing digital content and helping users identify potent
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalsatre1212&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
-# 📈 Contribution Graph:
+# 📊 GitHub Activity
 
 [![Snehal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehalsatre1212&theme=github-dark)](https://github.com/snehalsatre1212)
 
+---
 
-# ✍️ Random Dev Quote:
+# 🌐 Connect With Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-satre-4aa7b5340/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehalsatre1212)
 
-# 👀 Profile Visitors:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@snehal.s_.1212_)
 
-![](https://komarev.com/ghpvc/?username=snehalsatre1212&color=blue)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehalsatre2510@gmail.com)
 
 ---
 
-### 💡 "Learn continuously. Build intelligently. Solve problems that matter."
+# 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=snehalsatre1212)
+
+---
+
+### 💡 Learn Continuously. Build Intelligently. Solve Problems That Matter.
